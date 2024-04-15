@@ -6,7 +6,7 @@ cd ./veryimpinform
 touch donottouch
 cp donottouch donottouch2
 echo "nothing in here" > donottouch
-echo " ahahahah" > donottouch2
+echo " ahahahah dadadadadad" > donottouch2
 cat donottouch donottouch2
 tar -vcf  topsecret.tar donottouch
 mv topsecret.tar /home/ubunter/dirsth/
